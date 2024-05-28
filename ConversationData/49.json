@@ -1,7 +1,7 @@
 {
     "speaker_a": "Evan",
     "speaker_b": "Sam",
-    "session_1_date_time": "1:47 PM on 18 May, 2023",
+    "session_1_date_time": "1:47 AM on 18 May, 2023",
     "session_1": [
         {
             "speaker": "Sam",
@@ -180,7 +180,7 @@
             "response_number": "21"
         }
     ],
-    "session_2_date_time": "7:11 PM on 24 May, 2023",
+    "session_2_date_time": "7:11 AM on 24 May, 2023",
     "session_2": [
         {
             "speaker": "Evan",
@@ -307,7 +307,7 @@
             "response_number": "38"
         }
     ],
-    "session_3_date_time": "3:55 PM on 6 June, 2023",
+    "session_3_date_time": "3:55 AM on 6 June, 2023",
     "session_3": [
         {
             "speaker": "Evan",
@@ -622,7 +622,7 @@
             "response_number": "76"
         }
     ],
-    "session_5_date_time": "7:52 PM on 7 August, 2023",
+    "session_5_date_time": "7:52 AM on 7 August, 2023",
     "session_5": [
         {
             "speaker": "Evan",
@@ -841,7 +841,7 @@
             "response_number": "101"
         }
     ],
-    "session_6_date_time": "4:09 PM on 13 August, 2023",
+    "session_6_date_time": "4:09 AM on 13 August, 2023",
     "session_6": [
         {
             "speaker": "Evan",
@@ -987,7 +987,7 @@
             "response_number": "120"
         }
     ],
-    "session_7_date_time": "4:20 PM on 15 August, 2023",
+    "session_7_date_time": "4:20 AM on 15 August, 2023",
     "session_7": [
         {
             "speaker": "Evan",
@@ -1113,7 +1113,7 @@
             "response_number": "136"
         }
     ],
-    "session_8_date_time": "6:17 PM on 19 August, 2023",
+    "session_8_date_time": "6:17 AM on 19 August, 2023",
     "session_8": [
         {
             "speaker": "Sam",
@@ -1672,7 +1672,7 @@
             "response_number": "202"
         }
     ],
-    "session_11_date_time": "8:57 PM on 6 October, 2023",
+    "session_11_date_time": "8:57 AM on 6 October, 2023",
     "session_11": [
         {
             "speaker": "Sam",
@@ -1828,7 +1828,7 @@
             "response_number": "222"
         }
     ],
-    "session_12_date_time": "3:09 PM on 8 October, 2023",
+    "session_12_date_time": "3:09 AM on 8 October, 2023",
     "session_12": [
         {
             "speaker": "Sam",
@@ -1960,7 +1960,7 @@
             "response_number": "239"
         }
     ],
-    "session_13_date_time": "4:07 PM on 14 October, 2023",
+    "session_13_date_time": "4:07 AM on 14 October, 2023",
     "session_13": [
         {
             "speaker": "Evan",
@@ -2090,7 +2090,7 @@
             "response_number": "255"
         }
     ],
-    "session_14_date_time": "1:50 PM on 17 October, 2023",
+    "session_14_date_time": "1:50 AM on 17 October, 2023",
     "session_14": [
         {
             "speaker": "Sam",
@@ -2206,7 +2206,7 @@
             "response_number": "271"
         }
     ],
-    "session_15_date_time": "2:56 PM on 25 October, 2023",
+    "session_15_date_time": "2:56 AM on 25 October, 2023",
     "session_15": [
         {
             "speaker": "Sam",
@@ -2341,7 +2341,7 @@
             "response_number": "289"
         }
     ],
-    "session_16_date_time": "9:13 PM on 9 November, 2023",
+    "session_16_date_time": "9:13 AM on 9 November, 2023",
     "session_16": [
         {
             "speaker": "Sam",
@@ -2522,7 +2522,7 @@
             "response_number": "313"
         }
     ],
-    "session_17_date_time": "7:30 PM on 21 November, 2023",
+    "session_17_date_time": "7:30 AM on 21 November, 2023",
     "session_17": [
         {
             "speaker": "Sam",
@@ -2753,7 +2753,7 @@
             "response_number": "341"
         }
     ],
-    "session_18_date_time": "8:16 PM on 5 December, 2023",
+    "session_18_date_time": "8:16 AM on 5 December, 2023",
     "session_18": [
         {
             "speaker": "Evan",
@@ -2866,7 +2866,7 @@
             "response_number": "356"
         }
     ],
-    "session_19_date_time": "1:45 PM on 9 December, 2023",
+    "session_19_date_time": "1:45 AM on 9 December, 2023",
     "session_19": [
         {
             "speaker": "Evan",
@@ -2979,7 +2979,7 @@
             "response_number": "371"
         }
     ],
-    "session_20_date_time": "6:48 PM on 17 December, 2023",
+    "session_20_date_time": "6:48 AM on 17 December, 2023",
     "session_20": [
         {
             "speaker": "Evan",
@@ -3112,7 +3112,7 @@
             "response_number": "388"
         }
     ],
-    "session_21_date_time": "4:25 PM on 26 December, 2023",
+    "session_21_date_time": "4:25 AM on 26 December, 2023",
     "session_21": [
         {
             "speaker": "Sam",
@@ -3471,7 +3471,7 @@
             "response_number": "431"
         }
     ],
-    "session_23_date_time": "1:32 PM on 6 January, 2024",
+    "session_23_date_time": "1:32 AM on 6 January, 2024",
     "session_23": [
         {
             "speaker": "Evan",
@@ -3740,7 +3740,7 @@
             "response_number": "464"
         }
     ],
-    "session_24_date_time": "12:17 AM on 10 January, 2024",
+    "session_24_date_time": "12:17 PM on 10 January, 2024",
     "session_24": [
         {
             "speaker": "Evan",
@@ -4179,5 +4179,5 @@
             "response_number": "521"
         }
     ],
-    "session_26_date_time": "10:37 PM on 11 January, 2024"
+    "session_26_date_time": "10:37 AM on 11 January, 2024"
 }
