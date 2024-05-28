@@ -1,0 +1,1469 @@
+{
+    "file_indexes": [
+        26,
+        28,
+        31,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+    ],
+    "file_26": [
+        {
+            "questions": [
+                "What activity did Caroline and Melanie discuss on July 3rd that Melanie had recently taken up?"
+            ],
+            "relevant_docs": [
+                79,
+                80,
+                81
+            ]
+        },
+        {
+            "questions": [
+                "What was in Melanie's painting that she shared with Caroline on May 8th?"
+            ],
+            "relevant_docs": [
+                13
+            ]
+        },
+        {
+            "questions": [
+                "What type of group did Caroline join in July 2023?"
+            ],
+            "relevant_docs": [
+                193
+            ]
+        },
+        {
+            "questions": [
+                "On May 8th, what did Caroline say she was going to continue doing in response to Melanie's question about her plans?"
+            ],
+            "relevant_docs": [
+                8
+            ]
+        }
+    ],
+    "file_28": [
+        {
+            "questions": [
+                "In the first session, what sport did Matt mention he had recently joined?"
+            ],
+            "relevant_docs": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "On February 21, 2023, what hobby did Tara say she loves that involves being in the water?"
+            ],
+            "relevant_docs": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "During the first session, what did Matt say he does to balance eating pizza and staying fit?"
+            ],
+            "relevant_docs": [
+                9
+            ]
+        },
+        {
+            "questions": [
+                "What did Tara mention doing last Friday to shake things up in her routine, as per the conversation on February 21, 2023?"
+            ],
+            "relevant_docs": [
+                10
+            ]
+        },
+        {
+            "questions": [
+                "On February 21, 2023, what did Matt mention motivates him besides basketball?"
+            ],
+            "relevant_docs": [
+                15
+            ]
+        },
+        {
+            "questions": [
+                "In the first session, what memory involving pizza did Matt share with Tara?"
+            ],
+            "relevant_docs": [
+                7
+            ]
+        },
+        {
+            "questions": [
+                "What activity did Tara say she was looking forward to on her cheat day, as mentioned on February 21, 2023?"
+            ],
+            "relevant_docs": [
+                8
+            ]
+        },
+        {
+            "questions": [
+                "On February 24, 2023, what did Tara say makes her feel alive and free?"
+            ],
+            "relevant_docs": [
+                44
+            ]
+        },
+        {
+            "questions": [
+                "During the second session, what did Matt compare playing basketball to, in terms of its effect on him?"
+            ],
+            "relevant_docs": [
+                47
+            ]
+        },
+        {
+            "questions": [
+                " What did Tara say she started doing to relax at the end of the day, as mentioned on February 24, 2023?"
+            ],
+            "relevant_docs": [
+                50
+            ]
+        },
+        {
+            "questions": [
+                " On February 28, 2023, what new item did Matt mention he got that was related to basketball?"
+            ],
+            "relevant_docs": [
+                67
+            ]
+        },
+        {
+            "questions": [
+                " In the third session, what setback did Tara mention having?"
+            ],
+            "relevant_docs": [
+                68
+            ]
+        },
+        {
+            "questions": [
+                "What did Matt say about pizza during his conversation on February 28, 2023?"
+            ],
+            "relevant_docs": [
+                73
+            ]
+        },
+        {
+            "questions": [
+                "On March 4, 2023, what did Tara say she tried for the first time?"
+            ],
+            "relevant_docs": [
+                106
+            ]
+        },
+        {
+            "questions": [
+                "During the fourth session, what event did Matt mention he was excited to see involving his sister?"
+            ],
+            "relevant_docs": [
+                109
+            ]
+        },
+        {
+            "questions": [
+                "On March 22, 2023, what did Tara mention she had successfully completed for a whole month?"
+            ],
+            "relevant_docs": [
+                132
+            ]
+        },
+        {
+            "questions": [
+                "In the fifth session, what type of pizza did Tara mention making that was a healthy alternative?"
+            ],
+            "relevant_docs": [
+                134
+            ]
+        },
+        {
+            "questions": [
+                "On March 25, 2023, what new hobby did Tara consider starting to distract herself?"
+            ],
+            "relevant_docs": [
+                157
+            ]
+        },
+        {
+            "questions": [
+                "During the sixth session, what type of article did Tara mention she had a shoot for?"
+            ],
+            "relevant_docs": [
+                159
+            ]
+        },
+        {
+            "questions": [
+                "On July 8, 2023, what competition did Tara mention she was invited to participate in next month?"
+            ],
+            "relevant_docs": [
+                513
+            ]
+        },
+        {
+            "questions": [
+                "In the first session, what what sports team did Matt say he joined?"
+            ],
+            "relevant_docs": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "On March 4th, what athletic activity did Tara mention she tried for the first time?"
+            ],
+            "relevant_docs": [
+                106
+            ]
+        }
+    ],
+    "file_31": [
+        {
+            "questions": [
+                "What new hobby did Jeff start that he discusses on January 31, 2022?"
+            ],
+            "relevant_docs": [
+                8
+            ]
+        },
+        {
+            "questions": [
+                "What inspired Jeff's painting that he discussed on January 31, 2022?"
+            ],
+            "relevant_docs": [
+                14
+            ]
+        },
+        {
+            "questions": [
+                "What does Jeff use to handle challenging situations as mentioned on February 9, 2022?"
+            ],
+            "relevant_docs": [
+                22
+            ]
+        },
+        {
+            "questions": [
+                "What are the names of Jeff's dogs mentioned on February 9, 2022?"
+            ],
+            "relevant_docs": [
+                24
+            ]
+        },
+        {
+            "questions": [
+                "What type of dog did Megan adopt a month ago as mentioned on February 9, 2022?"
+            ],
+            "relevant_docs": [
+                25
+            ]
+        },
+        {
+            "questions": [
+                "When did Megan last go horseback riding as mentioned on February 9, 2022?"
+            ],
+            "relevant_docs": [
+                29
+            ]
+        },
+        {
+            "questions": [
+                "What kind of music does Jeff like as mentioned on February 9, 2022?"
+            ],
+            "relevant_docs": [
+                32
+            ]
+        },
+        {
+            "questions": [
+                "What bands does Jeff mention as his favorites on February 9, 2022?"
+            ],
+            "relevant_docs": [
+                34
+            ]
+        },
+        {
+            "questions": [
+                "What does Megan do to de-stress as mentioned on February 15, 2022?"
+            ],
+            "relevant_docs": [
+                90
+            ]
+        },
+        {
+            "questions": [
+                "What essential oils does Jeff use in his bath to relax as mentioned on February 15, 2022?"
+            ],
+            "relevant_docs": [
+                93
+            ]
+        },
+        {
+            "questions": [
+                "What allergy does Megan discuss on February 23, 2022?"
+            ],
+            "relevant_docs": [
+                97
+            ]
+        },
+        {
+            "questions": [
+                "What instrument did Jeff recently start playing as mentioned on February 12, 2022?"
+            ],
+            "relevant_docs": [
+                47
+            ]
+        },
+        {
+            "questions": [
+                "What does Jeff find therapeutic about drumming as mentioned on February 12, 2022?"
+            ],
+            "relevant_docs": [
+                49
+            ]
+        },
+        {
+            "questions": [
+                "What aspirations does Jeff have with his drumming as mentioned on February 12, 2022?"
+            ],
+            "relevant_docs": [
+                53
+            ]
+        },
+        {
+            "questions": [
+                "What is Megan's dream related to animals as mentioned on February 12, 2022?"
+            ],
+            "relevant_docs": [
+                54
+            ]
+        },
+        {
+            "questions": [
+                "What does Megan find therapeutic about riding horses as mentioned on February 12, 2022?"
+            ],
+            "relevant_docs": [
+                56
+            ]
+        },
+        {
+            "questions": [
+                "What type of photography does Jeff discuss starting as a hobby on April 10, 2022?"
+            ],
+            "relevant_docs": [
+                127
+            ]
+        },
+        {
+            "questions": [
+                "What concert experience does Jeff share on February 9th, 2022?"
+            ],
+            "relevant_docs": [
+                36
+            ]
+        },
+        {
+            "questions": [
+                "What type of music event did Megan attend that she discusses on February 9th, 2022?"
+            ],
+            "relevant_docs": [
+                35
+            ]
+        },
+        {
+            "questions": [
+                "What new pet did Megan adopt as discussed on May 8th, 2022?"
+            ],
+            "relevant_docs": [
+                217
+            ]
+        },
+        {
+            "questions": [
+                "What does Jeff find calming about nature as mentioned on February 23, 2022?"
+            ],
+            "relevant_docs": [
+                112
+            ]
+        },
+        {
+            "questions": [
+                "What photography subject does Jeff enjoy as mentioned on April 10, 2022?"
+            ],
+            "relevant_docs": [
+                131
+            ]
+        },
+        {
+            "questions": [
+                "What does Jeff mention about his experience in Yosemite as discussed on February 23rd, 2022?"
+            ],
+            "relevant_docs": [
+                110
+            ]
+        },
+        {
+            "questions": [
+                "What does Megan find special about sunsets at her parents' lake as mentioned on February 23, 2022?"
+            ],
+            "relevant_docs": [
+                62
+            ]
+        },
+        {
+            "questions": [
+                "On February 12th, Jeff said he started playing which instrument?"
+            ],
+            "relevant_docs": [
+                45,
+                47
+            ]
+        }
+    ],
+    "file_41": [
+        {
+            "questions": [
+                "What was John's next move in politics according to the conversation on December 17, 2022?"
+            ],
+            "relevant_docs": [
+                13
+            ]
+        },
+        {
+            "questions": [
+                "What new group did John join according to the conversation on January 1, 2023?"
+            ],
+            "relevant_docs": [
+                44
+            ]
+        },
+        {
+            "questions": [
+                "What type of event did John and his group organize according to the conversation on January 1, 2023?"
+            ],
+            "relevant_docs": [
+                48
+            ]
+        },
+        {
+            "questions": [
+                "What future projects was John brainstorming about on January 1, 2023?"
+            ],
+            "relevant_docs": [
+                50
+            ]
+        },
+        {
+            "questions": [
+                "What did John say about the importance of investing in future generations on December 22, 2022?"
+            ],
+            "relevant_docs": [
+                21
+            ]
+        },
+        {
+            "questions": [
+                "What did John fail recently according to the conversation on January 1, 2023?"
+            ],
+            "relevant_docs": [
+                54
+            ]
+        },
+        {
+            "questions": [
+                "What type of classes has John tried according to the conversation on April 7, 2023?"
+            ],
+            "relevant_docs": [
+                190
+            ]
+        },
+        {
+            "questions": [
+                "What did Maria make recently according to the conversation on December 22, 2022?"
+            ],
+            "relevant_docs": [
+                40
+            ]
+        },
+        {
+            "questions": [
+                "What did Maria enjoy doing with her family according to the conversation on December 22, 2022?"
+            ],
+            "relevant_docs": [
+                32
+            ]
+        },
+        {
+            "questions": [
+                "What kind of stuff do John and his family do at the playground according to the conversation on December 22, 2022?"
+            ],
+            "relevant_docs": [
+                31
+            ]
+        },
+        {
+            "questions": [
+                "What did John say about making memories with family on December 22, 2022?"
+            ],
+            "relevant_docs": [
+                35
+            ]
+        },
+        {
+            "questions": [
+                "What did John say about the importance of discussing community issues on January 9, 2023?"
+            ],
+            "relevant_docs": [
+                78
+            ]
+        },
+        {
+            "questions": [
+                "What did John say about uniting the community on January 9, 2023?"
+            ],
+            "relevant_docs": [
+                83
+            ]
+        },
+        {
+            "questions": [
+                "When did John express his gratitude for Maria's support on January 9, 2023?"
+            ],
+            "relevant_docs": [
+                84
+            ]
+        },
+        {
+            "questions": [
+                "What did Maria say about teamwork on January 9, 2023?"
+            ],
+            "relevant_docs": [
+                85
+            ]
+        },
+        {
+            "questions": [
+                "When did John mention going to a community meeting in his conversation on January 28, 2023?"
+            ],
+            "relevant_docs": [
+                87
+            ]
+        },
+        {
+            "questions": [
+                "What did Maria suggest for improving education on January 28, 2023?"
+            ],
+            "relevant_docs": [
+                88
+            ]
+        },
+        {
+            "questions": [
+                "What did Maria volunteer at according to the conversation on January 28, 2023?"
+            ],
+            "relevant_docs": [
+                92
+            ]
+        },
+        {
+            "questions": [
+                "What was the animal Maria talked about in the 30th session?"
+            ],
+            "relevant_docs": [
+                600,
+                601,
+                602,
+                603,
+                604
+            ]
+        },
+        {
+            "questions": [
+                "On June 16th Maria said she was trying what type of yoga to stay fit?"
+            ],
+            "relevant_docs": [
+                387
+            ]
+        }
+    ],
+    "file_42": [
+        {
+            "questions": [
+                "What is the name of the game Joanna asked Nate about on January 21, 2022?"
+            ],
+            "relevant_docs": [
+                6
+            ]
+        },
+        {
+            "questions": [
+                "What new pet did Nate mention on March 18, 2022, and what are they?"
+            ],
+            "relevant_docs": [
+                100
+            ]
+        },
+        {
+            "questions": [
+                "What movie did Nate and Joanna discuss on February 7, 2022?"
+            ],
+            "relevant_docs": [
+                67
+            ]
+        },
+        {
+            "questions": [
+                "What did Nate say he was doing on January 21, 2022, besides playing video games?"
+            ],
+            "relevant_docs": [
+                10
+            ]
+        },
+        {
+            "questions": [
+                "What type of dessert did Nate make that he discussed on February 7, 2022?"
+            ],
+            "relevant_docs": [
+                54
+            ]
+        },
+        {
+            "questions": [
+                "What did Joanna say she was allergic to on January 23, 2022?"
+            ],
+            "relevant_docs": [
+                42
+            ]
+        },
+        {
+            "questions": [
+                "What new hobby did Nate mention trying out on February 7, 2022?"
+            ],
+            "relevant_docs": [
+                54
+            ]
+        },
+        {
+            "questions": [
+                "What did Nate mention about his pets on January 23, 2022?"
+            ],
+            "relevant_docs": [
+                31
+            ]
+        },
+        {
+            "questions": [
+                "What game did Nate mention playing on January 21, 2022?"
+            ],
+            "relevant_docs": [
+                6
+            ]
+        },
+        {
+            "questions": [
+                "What did Joanna say she was allergic to on January 23, 2022?"
+            ],
+            "relevant_docs": [
+                42
+            ]
+        },
+        {
+            "questions": [
+                "Tell me what kind of tournament did Nate say he won on July 10th?"
+            ],
+            "relevant_docs": [
+                320
+            ]
+        }
+    ],
+    "file_43": [
+        {
+            "questions": [
+                "What project was Tim discussing on May 21, 2023?"
+            ],
+            "relevant_docs": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "What is John's goal for the season mentioned on May 21, 2023?"
+            ],
+            "relevant_docs": [
+                8
+            ]
+        },
+        {
+            "questions": [
+                "What brands is John considering for endorsement opportunities as mentioned on June 15, 2023?"
+            ],
+            "relevant_docs": [
+                23
+            ]
+        },
+        {
+            "questions": [
+                "When did John score his highest points in a game as mentioned on July 16, 2023?"
+            ],
+            "relevant_docs": [
+                39
+            ]
+        },
+        {
+            "questions": [
+                "What new activity did Tim start as mentioned on June 15, 2023?"
+            ],
+            "relevant_docs": [
+                20
+            ]
+        },
+        {
+            "questions": [
+                "What is the name of the team John plays for as mentioned on May 21, 2023?"
+            ],
+            "relevant_docs": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "What is the name of the Harry Potter fan Tim met in California as mentioned on July 16, 2023?"
+            ],
+            "relevant_docs": [
+                40
+            ]
+        },
+        {
+            "questions": [
+                "What brands did John eventually sign up for endorsements as mentioned on July 16, 2023?"
+            ],
+            "relevant_docs": [
+                51
+            ]
+        },
+        {
+            "questions": [
+                "What is the name of the fantasy literature forum Tim joined as mentioned on June 15, 2023?"
+            ],
+            "relevant_docs": [
+                20
+            ]
+        },
+        {
+            "questions": [
+                "When did John mention he was exploring new cities as mentioned on July 16, 2023?"
+            ],
+            "relevant_docs": [
+                57
+            ]
+        },
+        {
+            "questions": [
+                "What new team did John sign with as mentioned on May 21, 2023?"
+            ],
+            "relevant_docs": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "What position does John play in his basketball team as mentioned on May 21, 2023?"
+            ],
+            "relevant_docs": [
+                5
+            ]
+        },
+        {
+            "questions": [
+                "When did John discuss his new endorsement deals as mentioned on July 16, 2023?"
+            ],
+            "relevant_docs": [
+                51
+            ]
+        },
+        {
+            "questions": [
+                "What is the name of the team John recently signed with as mentioned on May 21, 2023?"
+            ],
+            "relevant_docs": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "What are the brands John is considering for endorsements as mentioned on June 15, 2023?"
+            ],
+            "relevant_docs": [
+                23
+            ]
+        },
+        {
+            "questions": [
+                "When did John mention his highest scoring game as mentioned on July 16, 2023?"
+            ],
+            "relevant_docs": [
+                39
+            ]
+        }
+    ],
+    "file_44": [
+        {
+            "questions": [
+                "In session 1, what new job did Andrew mention he started?"
+            ],
+            "relevant_docs": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "On March 27, 2023, what did Audrey say she purchased for her dogs?"
+            ],
+            "relevant_docs": [
+                2
+            ]
+        },
+        {
+            "questions": [
+                "In session 2, what is the name of the new puppy Audrey mentioned adopting?"
+            ],
+            "relevant_docs": [
+                24
+            ]
+        },
+        {
+            "questions": [
+                "On April 2, 2023, what did Andrew ask Audrey if she had checked out?"
+            ],
+            "relevant_docs": [
+                25
+            ]
+        },
+        {
+            "questions": [
+                "On April 16, 2023, what did Andrew say he misses about being out in nature?"
+            ],
+            "relevant_docs": [
+                50
+            ]
+        },
+        {
+            "questions": [
+                "In session 4, what type of bird did Andrew mention he found amazing?"
+            ],
+            "relevant_docs": [
+                81
+            ]
+        },
+        {
+            "questions": [
+                "On May 3, 2023, what new open space did Andrew mention he found for hiking?"
+            ],
+            "relevant_docs": [
+                82
+            ]
+        },
+        {
+            "questions": [
+                "In session 5, what activity did Andrew mention he was looking into for finding a dog-friendly place?"
+            ],
+            "relevant_docs": [
+                115
+            ]
+        },
+        {
+            "questions": [
+                " On May 6, 2023, what did Audrey say she takes her dogs on every couple of months?"
+            ],
+            "relevant_docs": [
+                120
+            ]
+        },
+        {
+            "questions": [
+                " In session 6, what type of workshop did Audrey sign up for?"
+            ],
+            "relevant_docs": [
+                134
+            ]
+        },
+        {
+            "questions": [
+                " On May 11, 2023, what did Andrew say about positive reinforcement in training dogs?"
+            ],
+            "relevant_docs": [
+                137
+            ]
+        },
+        {
+            "questions": [
+                " In session 7, where did Audrey mention she took her dogs on a road trip?"
+            ],
+            "relevant_docs": [
+                118
+            ]
+        },
+        {
+            "questions": [
+                " On June 2, 2023, what did Andrew mention was tough to find in the city?"
+            ],
+            "relevant_docs": [
+                156
+            ]
+        },
+        {
+            "questions": [
+                " In session 8, what new activity did Andrew mention he tried and enjoyed?"
+            ],
+            "relevant_docs": [
+                162
+            ]
+        },
+        {
+            "questions": [
+                " On June 13, 2023, what did Audrey suggest Andrew and his friends try next?"
+            ],
+            "relevant_docs": [
+                169
+            ]
+        },
+        {
+            "questions": [
+                " In session 9, what did Audrey say she had just purchased for her dogs?"
+            ],
+            "relevant_docs": [
+                190
+            ]
+        },
+        {
+            "questions": [
+                " On June 02, 2023, what did Andrew say he was still on the hunt for?"
+            ],
+            "relevant_docs": [
+                156
+            ]
+        },
+        {
+            "questions": [
+                " In session 10, what course did Audrey mention she was taking?"
+            ],
+            "relevant_docs": [
+                217
+            ]
+        },
+        {
+            "questions": [
+                " On July 3, 2023, what did Andrew mention he was getting into since he couldn't hike?"
+            ],
+            "relevant_docs": [
+                228
+            ]
+        },
+        {
+            "questions": [
+                "On June 14th, what activity did Andrew say he did?"
+            ],
+            "relevant_docs": [
+                162
+            ]
+        },
+        {
+            "questions": [
+                "In session 9, what did Audrey say she had just purchased?"
+            ],
+            "relevant_docs": [
+                190
+            ]
+        },
+        {
+            "questions": [
+                "On Thursday July 27th, what activity did Andrew say he found rewarding?"
+            ],
+            "relevant_docs": [
+                301
+            ]
+        }
+    ],
+    "file_45": [
+        {
+            "questions": [
+                "What did Tiffany express about her job situation in session 1?"
+            ],
+            "relevant_docs": [
+                3
+            ]
+        },
+        {
+            "questions": [
+                "What advice does Kylie give Tiffany about handling stress in session 2?"
+            ],
+            "relevant_docs": [
+                21
+            ]
+        },
+        {
+            "questions": [
+                "What project does Kylie mention in the first session, and what are its benefits?"
+            ],
+            "relevant_docs": [
+                10
+            ]
+        },
+        {
+            "questions": [
+                "In the first session, what does Kylie say she is studying?"
+            ],
+            "relevant_docs": [
+                8
+            ]
+        },
+        {
+            "questions": [
+                "What new hobby does Tiffany mention considering in response number 26?"
+            ],
+            "relevant_docs": [
+                26
+            ]
+        },
+        {
+            "questions": [
+                "What does Kylie suggest Tiffany could try on Janurary 17th to handle her stress?"
+            ],
+            "relevant_docs": [
+                21
+            ]
+        },
+        {
+            "questions": [
+                "What solution does Kylie propose to Tiffany for handling stress in session 2?"
+            ],
+            "relevant_docs": [
+                21
+            ]
+        },
+        {
+            "questions": [
+                "What does Tiffany say about her job search in session 2?"
+            ],
+            "relevant_docs": [
+                20
+            ]
+        },
+        {
+            "questions": [
+                "What hobby does Tiffany mention getting back into in session 2?"
+            ],
+            "relevant_docs": [
+                26
+            ]
+        },
+        {
+            "questions": [
+                "In session 30, what event did Kylie start the conversation discussing?"
+            ],
+            "relevant_docs": [
+                675
+            ]
+        }
+    ],
+    "file_46": [
+        {
+            "questions": [
+                "What activity was Doug and Charlie discussing at the beginning of session 16?"
+            ],
+            "relevant_docs": [
+                382,
+                383,
+                384,
+                385,
+                386,
+                387
+            ]
+        }
+    ],
+    "file_47": [
+        {
+            "questions": [
+                "What motivates James according to his response on March 17th?"
+            ],
+            "relevant_docs": [
+                1
+            ]
+        },
+        {
+            "questions": [
+                "What are the names of James' dogs mentioned on March 17th?"
+            ],
+            "relevant_docs": [
+                13
+            ]
+        },
+        {
+            "questions": [
+                "What project is James working on that he mentioned on March 17th?"
+            ],
+            "relevant_docs": [
+                19
+            ]
+        },
+        {
+            "questions": [
+                "What game does James mention he tried and found immersive on March 17th?"
+            ],
+            "relevant_docs": [
+                33
+            ]
+        },
+        {
+            "questions": [
+                "What did James show John on March 20th?"
+            ],
+            "relevant_docs": [
+                51
+            ]
+        },
+        {
+            "questions": [
+                "What accomplishment did James mention on March 27th?"
+            ],
+            "relevant_docs": [
+                58
+            ]
+        },
+        {
+            "questions": [
+                "What new instrument is James learning as mentioned on March 27th?"
+            ],
+            "relevant_docs": [
+                59
+            ]
+        },
+        {
+            "questions": [
+                "What new types of games is James interested in trying out as mentioned on April 4th?"
+            ],
+            "relevant_docs": [
+                100
+            ]
+        },
+        {
+            "questions": [
+                "What new pet did James adopt as mentioned on April 12th?"
+            ],
+            "relevant_docs": [
+                106
+            ]
+        },
+        {
+            "questions": [
+                "What programming project did James mention working on with a gaming pal on April 20th?"
+            ],
+            "relevant_docs": [
+                123
+            ]
+        },
+        {
+            "questions": [
+                "What did James and John plan to do together as mentioned on April 20th?"
+            ],
+            "relevant_docs": [
+                137
+            ]
+        },
+        {
+            "questions": [
+                "What outdoor activity does James mention enjoying with his dogs as mentioned on April 23rd?"
+            ],
+            "relevant_docs": [
+                142
+            ]
+        },
+        {
+            "questions": [
+                "What new challenge did James face at work as mentioned on April 23rd?"
+            ],
+            "relevant_docs": [
+                153
+            ]
+        },
+        {
+            "questions": [
+                "What new freelance project is John working on as mentioned on April 29th?"
+            ],
+            "relevant_docs": [
+                165
+            ]
+        },
+        {
+            "questions": [
+                "What new book genre is James exploring as mentioned on April 29th?"
+            ],
+            "relevant_docs": [
+                172
+            ]
+        },
+        {
+            "questions": [
+                "What new game genre is James excited to explore as mentioned on March 27th?"
+            ],
+            "relevant_docs": [
+                77
+            ]
+        },
+        {
+            "questions": [
+                "What new activity did James start as mentioned on May 11th?"
+            ],
+            "relevant_docs": [
+                242
+            ]
+        },
+        {
+            "questions": [
+                "What new job did John start as mentioned on June 13th?"
+            ],
+            "relevant_docs": [
+                277
+            ]
+        },
+        {
+            "questions": [
+                "What new country did James visit as mentioned on April 20th?"
+            ],
+            "relevant_docs": [
+                133
+            ]
+        },
+        {
+            "questions": [
+                "What new project is John excited about as mentioned on August 6th?"
+            ],
+            "relevant_docs": [
+                407
+            ]
+        },
+        {
+            "questions": [
+                "What new gaming equipment did John purchase as mentioned on September 4th?"
+            ],
+            "relevant_docs": [
+                505
+            ]
+        },
+        {
+            "questions": [
+                "What new experience did James have on a road trip as mentioned on November 7th?"
+            ],
+            "relevant_docs": [
+                665
+            ]
+        },
+        {
+            "questions": [
+                "On March 17th what videogame did James say he was into?"
+            ],
+            "relevant_docs": [
+                3
+            ]
+        }
+    ],
+    "file_48": [
+        {
+            "questions": [
+                "What project did Jolene discuss on February 1st, 2023?"
+            ],
+            "relevant_docs": [
+                50
+            ]
+        },
+        {
+            "questions": [
+                "What did Deborah say about her goals on January 23, 2023?"
+            ],
+            "relevant_docs": [
+                12
+            ]
+        },
+        {
+            "questions": [
+                "What did Jolene mention about her mother's pendant on January 23, 2023?"
+            ],
+            "relevant_docs": [
+                7
+            ]
+        },
+        {
+            "questions": [
+                "What video game did Jolene mention playing with her partner on January 27th, 2023?"
+            ],
+            "relevant_docs": [
+                43
+            ]
+        },
+        {
+            "questions": [
+                "What did Deborah say about her yoga passion on January 23, 2023?"
+            ],
+            "relevant_docs": [
+                14
+            ]
+        },
+        {
+            "questions": [
+                "What did Deborah mention about her community work on January 23, 2023?"
+            ],
+            "relevant_docs": [
+                12
+            ]
+        },
+        {
+            "questions": [
+                "What did Deborah share about her last photo with her mother on January 23, 2023?"
+            ],
+            "relevant_docs": [
+                4
+            ]
+        },
+        {
+            "questions": [
+                "What did Deborah say about her yoga teaching on January 23, 2023?"
+            ],
+            "relevant_docs": [
+                12
+            ]
+        },
+        {
+            "questions": [
+                "What sort of plants did Jolene and Deborah talk about in session 6?"
+            ],
+            "relevant_docs": [
+                128,
+                129
+            ]
+        }
+    ],
+    "file_49": [
+        {
+            "questions": [
+                "What did Evan do last weekend according to his conversation on May 24, 2023?"
+            ],
+            "relevant_docs": [
+                22
+            ]
+        },
+        {
+            "questions": [
+                "What hobby did Sam consider starting according to the conversation on May 18, 2023?"
+            ],
+            "relevant_docs": [
+                10
+            ]
+        },
+        {
+            "questions": [
+                "What issue did Sam discuss on January 11th, 2024?"
+            ],
+            "relevant_docs": [
+                489
+            ]
+        },
+        {
+            "questions": [
+                "What activity did Evan and his family do according to the conversation on December 31, 2023?"
+            ],
+            "relevant_docs": [
+                412
+            ]
+        },
+        {
+            "questions": [
+                "What did Evan suggest Sam to swap soda with in their conversation on June 6, 2023?"
+            ],
+            "relevant_docs": [
+                43
+            ]
+        },
+        {
+            "questions": [
+                "What new hobby did Evan mention starting on August 19, 2023?"
+            ],
+            "relevant_docs": [
+                148
+            ]
+        },
+        {
+            "questions": [
+                "What did Sam say was a good exercise, according to the conversation on January 10, 2024?"
+            ],
+            "relevant_docs": [
+                474
+            ]
+        },
+        {
+            "questions": [
+                "What health issue did Evan mention on November 21, 2023?"
+            ],
+            "relevant_docs": [
+                315
+            ]
+        },
+        {
+            "questions": [
+                "What did Evan lose according to the conversation on December 26, 2024?"
+            ],
+            "relevant_docs": [
+                408
+            ]
+        },
+        {
+            "questions": [
+                "What did Evan suggest as a new hobby for Sam on 2023/09/11?"
+            ],
+            "relevant_docs": [
+                197
+            ]
+        },
+        {
+            "questions": [
+                "What did Sam find challenging according to the conversation on August 19, 2023?"
+            ],
+            "relevant_docs": [
+                165
+            ]
+        },
+        {
+            "questions": [
+                "What did Sam say about his dietary habits on June 6, 2023?"
+            ],
+            "relevant_docs": [
+                42
+            ]
+        },
+        {
+            "questions": [
+                "What did Sam plan to do after discussing his health on January 10, 2024?"
+            ],
+            "relevant_docs": [
+                476
+            ]
+        },
+        {
+            "questions": [
+                "On January 11th, 2024, where did Sam say he liked to go to relax?"
+            ],
+            "relevant_docs": [
+                495
+            ]
+        }
+    ]
+}
