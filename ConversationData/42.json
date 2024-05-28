@@ -1,7 +1,7 @@
 {
     "speaker_a": "Joanna",
     "speaker_b": "Nate",
-    "session_1_date_time": "7:31 PM on 21 January, 2022",
+    "session_1_date_time": "7:31 AM on 21 January, 2022",
     "session_1": [
         {
             "speaker": "Nate",
@@ -168,7 +168,7 @@
             "response_number": "21"
         }
     ],
-    "session_2_date_time": "2:01 PM on 23 January, 2022",
+    "session_2_date_time": "2:01 AM on 23 January, 2022",
     "session_2": [
         {
             "speaker": "Joanna",
@@ -570,7 +570,7 @@
             "response_number": "75"
         }
     ],
-    "session_4_date_time": "1:07 PM on 25 February, 2022",
+    "session_4_date_time": "1:07 AM on 25 February, 2022",
     "session_4": [
         {
             "speaker": "Nate",
@@ -711,7 +711,7 @@
             "response_number": "94"
         }
     ],
-    "session_5_date_time": "6:59 PM on 18 March, 2022",
+    "session_5_date_time": "6:59 AM on 18 March, 2022",
     "session_5": [
         {
             "speaker": "Joanna",
@@ -874,7 +874,7 @@
             "response_number": "115"
         }
     ],
-    "session_6_date_time": "1:43 PM on 24 March, 2022",
+    "session_6_date_time": "1:43 AM on 24 March, 2022",
     "session_6": [
         {
             "speaker": "Nate",
@@ -973,7 +973,7 @@
             "response_number": "128"
         }
     ],
-    "session_7_date_time": "7:37 PM on 15 April, 2022",
+    "session_7_date_time": "7:37 AM on 15 April, 2022",
     "session_7": [
         {
             "speaker": "Nate",
@@ -1078,7 +1078,7 @@
             "response_number": "141"
         }
     ],
-    "session_8_date_time": "6:44 PM on 17 April, 2022",
+    "session_8_date_time": "6:44 AM on 17 April, 2022",
     "session_8": [
         {
             "speaker": "Nate",
@@ -1245,7 +1245,7 @@
             "response_number": "163"
         }
     ],
-    "session_9_date_time": "7:44 PM on 21 April, 2022",
+    "session_9_date_time": "7:44 AM on 21 April, 2022",
     "session_9": [
         {
             "speaker": "Joanna",
@@ -1530,7 +1530,7 @@
             "response_number": "197"
         }
     ],
-    "session_11_date_time": "3:35 PM on 12 May, 2022",
+    "session_11_date_time": "3:35 AM on 12 May, 2022",
     "session_11": [
         {
             "speaker": "Joanna",
@@ -1678,7 +1678,7 @@
             "response_number": "217"
         }
     ],
-    "session_12_date_time": "7:49 PM on 20 May, 2022",
+    "session_12_date_time": "7:49 AM on 20 May, 2022",
     "session_12": [
         {
             "speaker": "Nate",
@@ -1824,7 +1824,7 @@
             "response_number": "236"
         }
     ],
-    "session_13_date_time": "3:00 PM on 25 May, 2022",
+    "session_13_date_time": "3:00 AM on 25 May, 2022",
     "session_13": [
         {
             "speaker": "Nate",
@@ -1993,7 +1993,7 @@
             "response_number": "259"
         }
     ],
-    "session_14_date_time": "5:44 PM on 3 June, 2022",
+    "session_14_date_time": "5:44 AM on 3 June, 2022",
     "session_14": [
         {
             "speaker": "Joanna",
@@ -2186,7 +2186,7 @@
             "response_number": "286"
         }
     ],
-    "session_15_date_time": "2:12 PM on 5 June, 2022",
+    "session_15_date_time": "2:12 AM on 5 June, 2022",
     "session_15": [
         {
             "speaker": "Joanna",
@@ -2441,7 +2441,7 @@
             "response_number": "319"
         }
     ],
-    "session_17_date_time": "2:34 PM on 10 July, 2022",
+    "session_17_date_time": "2:34 AM on 10 July, 2022",
     "session_17": [
         {
             "speaker": "Nate",
@@ -2613,7 +2613,7 @@
             "response_number": "340"
         }
     ],
-    "session_18_date_time": "6:12 PM on 14 August, 2022",
+    "session_18_date_time": "6:12 AM on 14 August, 2022",
     "session_18": [
         {
             "speaker": "Joanna",
@@ -2933,7 +2933,7 @@
             "response_number": "378"
         }
     ],
-    "session_20_date_time": "6:03 PM on 5 September, 2022",
+    "session_20_date_time": "6:03 AM on 5 September, 2022",
     "session_20": [
         {
             "speaker": "Nate",
@@ -3087,7 +3087,7 @@
             "response_number": "397"
         }
     ],
-    "session_21_date_time": "1:43 PM on 14 September, 2022",
+    "session_21_date_time": "1:43 AM on 14 September, 2022",
     "session_21": [
         {
             "speaker": "Joanna",
@@ -3686,7 +3686,7 @@
             "response_number": "470"
         }
     ],
-    "session_24_date_time": "2:01 PM on 21 October, 2022",
+    "session_24_date_time": "2:01 AM on 21 October, 2022",
     "session_24": [
         {
             "speaker": "Nate",
@@ -3823,7 +3823,7 @@
             "response_number": "489"
         }
     ],
-    "session_25_date_time": "8:16 PM on 25 October, 2022",
+    "session_25_date_time": "8:16 AM on 25 October, 2022",
     "session_25": [
         {
             "speaker": "Nate",
@@ -4062,7 +4062,7 @@
             "response_number": "518"
         }
     ],
-    "session_26_date_time": "3:56 PM on 4 November, 2022",
+    "session_26_date_time": "3:56 AM on 4 November, 2022",
     "session_26": [
         {
             "speaker": "Joanna",
@@ -4247,7 +4247,7 @@
             "response_number": "542"
         }
     ],
-    "session_27_date_time": "8:10 PM on 7 November, 2022",
+    "session_27_date_time": "8:10 AM on 7 November, 2022",
     "session_27": [
         {
             "speaker": "Nate",
@@ -4553,7 +4553,7 @@
             "response_number": "580"
         }
     ],
-    "session_28_date_time": "5:54 PM on 9 November, 2022",
+    "session_28_date_time": "5:54 AM on 9 November, 2022",
     "session_28": [
         {
             "speaker": "Nate",
@@ -4820,7 +4820,7 @@
             "response_number": "613"
         }
     ],
-    "session_29_date_time": "12:06 AM on 11 November, 2022",
+    "session_29_date_time": "12:06 PM on 11 November, 2022",
     "session_29": [
         {
             "speaker": "Joanna",
