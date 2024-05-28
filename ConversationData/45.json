@@ -1,7 +1,7 @@
 {
     "speaker_a": "Kylie",
     "speaker_b": "Tiffany",
-    "session_1_date_time": "8:14 PM on 9 January, 2022",
+    "session_1_date_time": "8:14 AM on 9 January, 2022",
     "session_1": [
         {
             "speaker": "Kylie",
@@ -159,7 +159,7 @@
             "response_number": "19"
         }
     ],
-    "session_2_date_time": "12:29 AM on 17 January, 2022",
+    "session_2_date_time": "12:29 PM on 17 January, 2022",
     "session_2": [
         {
             "speaker": "Tiffany",
@@ -292,7 +292,7 @@
             "response_number": "34"
         }
     ],
-    "session_3_date_time": "12:00 AM on 15 February, 2022",
+    "session_3_date_time": "12:00 PM on 15 February, 2022",
     "session_3": [
         {
             "speaker": "Tiffany",
@@ -492,7 +492,7 @@
             "response_number": "60"
         }
     ],
-    "session_4_date_time": "9:25 PM on 21 February, 2022",
+    "session_4_date_time": "9:25 AM on 21 February, 2022",
     "session_4": [
         {
             "speaker": "Tiffany",
@@ -619,7 +619,7 @@
             "response_number": "77"
         }
     ],
-    "session_5_date_time": "2:59 PM on 18 March, 2022",
+    "session_5_date_time": "2:59 AM on 18 March, 2022",
     "session_5": [
         {
             "speaker": "Tiffany",
@@ -770,7 +770,7 @@
             "response_number": "96"
         }
     ],
-    "session_6_date_time": "7:31 PM on 21 March, 2022",
+    "session_6_date_time": "7:31 AM on 21 March, 2022",
     "session_6": [
         {
             "speaker": "Kylie",
@@ -1397,7 +1397,7 @@
             "response_number": "177"
         }
     ],
-    "session_9_date_time": "2:48 PM on 12 April, 2022",
+    "session_9_date_time": "2:48 AM on 12 April, 2022",
     "session_9": [
         {
             "speaker": "Tiffany",
@@ -1655,7 +1655,7 @@
             "response_number": "210"
         }
     ],
-    "session_11_date_time": "12:41 AM on 1 May, 2022",
+    "session_11_date_time": "12:41 PM on 1 May, 2022",
     "session_11": [
         {
             "speaker": "Tiffany",
@@ -1948,7 +1948,7 @@
             "response_number": "247"
         }
     ],
-    "session_12_date_time": "6:55 PM on 10 May, 2022",
+    "session_12_date_time": "6:55 AM on 10 May, 2022",
     "session_12": [
         {
             "speaker": "Tiffany",
@@ -2188,7 +2188,7 @@
             "response_number": "279"
         }
     ],
-    "session_13_date_time": "3:01 PM on 30 May, 2022",
+    "session_13_date_time": "3:01 AM on 30 May, 2022",
     "session_13": [
         {
             "speaker": "Tiffany",
@@ -2553,7 +2553,7 @@
             "response_number": "325"
         }
     ],
-    "session_15_date_time": "5:01 PM on 12 June, 2022",
+    "session_15_date_time": "5:01 AM on 12 June, 2022",
     "session_15": [
         {
             "speaker": "Tiffany",
@@ -2747,7 +2747,7 @@
             "response_number": "348"
         }
     ],
-    "session_16_date_time": "9:43 PM on 25 June, 2022",
+    "session_16_date_time": "9:43 AM on 25 June, 2022",
     "session_16": [
         {
             "speaker": "Kylie",
@@ -2898,7 +2898,7 @@
             "response_number": "368"
         }
     ],
-    "session_17_date_time": "6:53 PM on 1 July, 2022",
+    "session_17_date_time": "6:53 AM on 1 July, 2022",
     "session_17": [
         {
             "speaker": "Kylie",
@@ -3045,7 +3045,7 @@
             "response_number": "387"
         }
     ],
-    "session_18_date_time": "3:51 PM on 16 July, 2022",
+    "session_18_date_time": "3:51 AM on 16 July, 2022",
     "session_18": [
         {
             "speaker": "Tiffany",
@@ -3208,7 +3208,7 @@
             "response_number": "407"
         }
     ],
-    "session_19_date_time": "9:54 PM on 20 July, 2022",
+    "session_19_date_time": "9:54 AM on 20 July, 2022",
     "session_19": [
         {
             "speaker": "Kylie",
@@ -3622,7 +3622,7 @@
             "response_number": "457"
         }
     ],
-    "session_21_date_time": "9:07 PM on 3 August, 2022",
+    "session_21_date_time": "9:07 AM on 3 August, 2022",
     "session_21": [
         {
             "speaker": "Tiffany",
@@ -3733,7 +3733,7 @@
             "response_number": "471"
         }
     ],
-    "session_22_date_time": "8:00 PM on 9 August, 2022",
+    "session_22_date_time": "8:00 AM on 9 August, 2022",
     "session_22": [
         {
             "speaker": "Tiffany",
@@ -3874,7 +3874,7 @@
             "response_number": "490"
         }
     ],
-    "session_23_date_time": "5:03 PM on 14 August, 2022",
+    "session_23_date_time": "5:03 AM on 14 August, 2022",
     "session_23": [
         {
             "speaker": "Kylie",
@@ -4231,7 +4231,7 @@
             "response_number": "535"
         }
     ],
-    "session_25_date_time": "9:19 PM on 19 August, 2022",
+    "session_25_date_time": "9:19 AM on 19 August, 2022",
     "session_25": [
         {
             "speaker": "Tiffany",
@@ -4616,7 +4616,7 @@
             "response_number": "583"
         }
     ],
-    "session_26_date_time": "6:22 PM on 21 August, 2022",
+    "session_26_date_time": "6:22 AM on 21 August, 2022",
     "session_26": [
         {
             "speaker": "Tiffany",
@@ -4810,7 +4810,7 @@
             "response_number": "608"
         }
     ],
-    "session_27_date_time": "2:38 PM on 23 August, 2022",
+    "session_27_date_time": "2:38 AM on 23 August, 2022",
     "session_27": [
         {
             "speaker": "Kylie",
@@ -5036,7 +5036,7 @@
             "response_number": "637"
         }
     ],
-    "session_28_date_time": "4:00 PM on 27 August, 2022",
+    "session_28_date_time": "4:00 AM on 27 August, 2022",
     "session_28": [
         {
             "speaker": "Kylie",
@@ -5178,7 +5178,7 @@
             "response_number": "656"
         }
     ],
-    "session_29_date_time": "3:24 PM on 31 August, 2022",
+    "session_29_date_time": "3:24 AM on 31 August, 2022",
     "session_29": [
         {
             "speaker": "Tiffany",
