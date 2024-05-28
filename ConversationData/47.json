@@ -1,7 +1,7 @@
 {
     "speaker_a": "James",
     "speaker_b": "John",
-    "session_1_date_time": "3:47 PM on 17 March, 2022",
+    "session_1_date_time": "3:47 AM on 17 March, 2022",
     "session_1": [
         {
             "speaker": "John",
@@ -285,7 +285,7 @@
             "response_number": "36"
         }
     ],
-    "session_2_date_time": "9:26 PM on 20 March, 2022",
+    "session_2_date_time": "9:26 AM on 20 March, 2022",
     "session_2": [
         {
             "speaker": "James",
@@ -445,7 +445,7 @@
             "response_number": "57"
         }
     ],
-    "session_3_date_time": "12:40 AM on 27 March, 2022",
+    "session_3_date_time": "12:40 PM on 27 March, 2022",
     "session_3": [
         {
             "speaker": "John",
@@ -626,7 +626,7 @@
             "response_number": "80"
         }
     ],
-    "session_4_date_time": "2:13 PM on 4 April, 2022",
+    "session_4_date_time": "2:13 AM on 4 April, 2022",
     "session_4": [
         {
             "speaker": "John",
@@ -962,7 +962,7 @@
             "response_number": "121"
         }
     ],
-    "session_6_date_time": "9:32 PM on 20 April, 2022",
+    "session_6_date_time": "9:32 AM on 20 April, 2022",
     "session_6": [
         {
             "speaker": "John",
@@ -1270,7 +1270,7 @@
             "response_number": "161"
         }
     ],
-    "session_8_date_time": "2:36 PM on 29 April, 2022",
+    "session_8_date_time": "2:36 AM on 29 April, 2022",
     "session_8": [
         {
             "speaker": "James",
@@ -1580,7 +1580,7 @@
             "response_number": "201"
         }
     ],
-    "session_9_date_time": "7:01 PM on 4 May, 2022",
+    "session_9_date_time": "7:01 AM on 4 May, 2022",
     "session_9": [
         {
             "speaker": "John",
@@ -1769,7 +1769,7 @@
             "response_number": "226"
         }
     ],
-    "session_10_date_time": "12:45 AM on 8 May, 2022",
+    "session_10_date_time": "12:45 PM on 8 May, 2022",
     "session_10": [
         {
             "speaker": "James",
@@ -1882,7 +1882,7 @@
             "response_number": "241"
         }
     ],
-    "session_11_date_time": "5:00 PM on 11 May, 2022",
+    "session_11_date_time": "5:00 AM on 11 May, 2022",
     "session_11": [
         {
             "speaker": "John",
@@ -2023,7 +2023,7 @@
             "response_number": "260"
         }
     ],
-    "session_12_date_time": "7:33 PM on 23 May, 2022",
+    "session_12_date_time": "7:33 AM on 23 May, 2022",
     "session_12": [
         {
             "speaker": "James",
@@ -2129,7 +2129,7 @@
             "response_number": "274"
         }
     ],
-    "session_13_date_time": "4:30 PM on 13 June, 2022",
+    "session_13_date_time": "4:30 AM on 13 June, 2022",
     "session_13": [
         {
             "speaker": "John",
@@ -2272,7 +2272,7 @@
             "response_number": "294"
         }
     ],
-    "session_14_date_time": "5:07 PM on 16 June, 2022",
+    "session_14_date_time": "5:07 AM on 16 June, 2022",
     "session_14": [
         {
             "speaker": "James",
@@ -2565,7 +2565,7 @@
             "response_number": "328"
         }
     ],
-    "session_15_date_time": "9:59 PM on 19 June, 2022",
+    "session_15_date_time": "9:59 AM on 19 June, 2022",
     "session_15": [
         {
             "speaker": "James",
@@ -2713,7 +2713,7 @@
             "response_number": "347"
         }
     ],
-    "session_16_date_time": "5:13 PM on 9 July, 2022",
+    "session_16_date_time": "5:13 AM on 9 July, 2022",
     "session_16": [
         {
             "speaker": "James",
@@ -3121,7 +3121,7 @@
             "response_number": "400"
         }
     ],
-    "session_18_date_time": "1:45 PM on 6 August, 2022",
+    "session_18_date_time": "1:45 AM on 6 August, 2022",
     "session_18": [
         {
             "speaker": "John",
@@ -3408,7 +3408,7 @@
             "response_number": "437"
         }
     ],
-    "session_20_date_time": "3:57 PM on 21 August, 2022",
+    "session_20_date_time": "3:57 AM on 21 August, 2022",
     "session_20": [
         {
             "speaker": "John",
@@ -3586,7 +3586,7 @@
             "response_number": "459"
         }
     ],
-    "session_21_date_time": "9:18 PM on 26 August, 2022",
+    "session_21_date_time": "9:18 AM on 26 August, 2022",
     "session_21": [
         {
             "speaker": "James",
@@ -3728,7 +3728,7 @@
             "response_number": "478"
         }
     ],
-    "session_22_date_time": "6:53 PM on 1 September, 2022",
+    "session_22_date_time": "6:53 AM on 1 September, 2022",
     "session_22": [
         {
             "speaker": "James",
@@ -3875,7 +3875,7 @@
             "response_number": "497"
         }
     ],
-    "session_23_date_time": "9:23 PM on 4 September, 2022",
+    "session_23_date_time": "9:23 AM on 4 September, 2022",
     "session_23": [
         {
             "speaker": "James",
@@ -4032,7 +4032,7 @@
             "response_number": "518"
         }
     ],
-    "session_24_date_time": "6:02 PM on 18 September, 2022",
+    "session_24_date_time": "6:02 AM on 18 September, 2022",
     "session_24": [
         {
             "speaker": "John",
@@ -4207,7 +4207,7 @@
             "response_number": "539"
         }
     ],
-    "session_25_date_time": "8:56 PM on 20 September, 2022",
+    "session_25_date_time": "8:56 AM on 20 September, 2022",
     "session_25": [
         {
             "speaker": "John",
@@ -4527,7 +4527,7 @@
             "response_number": "579"
         }
     ],
-    "session_27_date_time": "2:14 PM on 13 October, 2022",
+    "session_27_date_time": "2:14 AM on 13 October, 2022",
     "session_27": [
         {
             "speaker": "John",
@@ -4639,7 +4639,7 @@
             "response_number": "593"
         }
     ],
-    "session_28_date_time": "7:36 PM on 21 October, 2022",
+    "session_28_date_time": "7:36 AM on 21 October, 2022",
     "session_28": [
         {
             "speaker": "James",
@@ -4903,7 +4903,7 @@
             "response_number": "628"
         }
     ],
-    "session_29_date_time": "12:37 AM on 31 October, 2022",
+    "session_29_date_time": "12:37 PM on 31 October, 2022",
     "session_29": [
         {
             "speaker": "John",
@@ -5024,7 +5024,7 @@
             "response_number": "644"
         }
     ],
-    "session_30_date_time": "5:20 PM on 5 November, 2022",
+    "session_30_date_time": "5:20 AM on 5 November, 2022",
     "session_30": [
         {
             "speaker": "James",
@@ -5165,7 +5165,7 @@
             "response_number": "663"
         }
     ],
-    "session_31_date_time": "8:57 PM on 7 November, 2022",
+    "session_31_date_time": "8:57 AM on 7 November, 2022",
     "session_31": [
         {
             "speaker": "James",
