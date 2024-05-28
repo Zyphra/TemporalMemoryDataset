@@ -1,0 +1,456 @@
+{
+    "file_indexes": [
+        26,
+        28,
+        31,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+    ],
+    "file_26": [
+        {
+            "questions": [
+                "What did we discuss last Friday?",
+                "Tell me the sorts of things did we talk about last Friday.",
+                "Last Friday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403
+            ]
+        }
+    ],
+    "file_28": [
+        {
+            "questions": [
+                "What did we discuss last Saturday?",
+                "Tell me the sorts of things did we talk about last Saturday.",
+                "Last Saturday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                484,
+                485,
+                486,
+                487,
+                488,
+                489,
+                490,
+                491,
+                492,
+                493,
+                494,
+                495,
+                496,
+                497,
+                498,
+                499,
+                500,
+                501,
+                502,
+                503,
+                504,
+                505,
+                506,
+                507,
+                508,
+                509,
+                510,
+                511,
+                512
+            ]
+        }
+    ],
+    "file_31": [
+        {
+            "questions": [
+                "What did we discuss last Saturday?",
+                "Tell me the sorts of things did we talk about last Saturday.",
+                "Last Saturday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443
+            ]
+        }
+    ],
+    "file_41": [
+        {
+            "questions": [
+                "What did we discuss last Sunday?",
+                "Tell me the sorts of things did we talk about last Sunday.",
+                "Last Sunday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                623,
+                624,
+                625,
+                626,
+                627,
+                628,
+                629,
+                630,
+                631,
+                632,
+                633,
+                634,
+                635,
+                636,
+                637,
+                638,
+                639,
+                640,
+                641,
+                642,
+                643,
+                644,
+                645
+            ]
+        }
+    ],
+    "file_42": [
+        {
+            "questions": [
+                "What did we discuss last Wednesday?",
+                "Tell me the sorts of things did we talk about last Wednesday.",
+                "Last Wednesday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                581,
+                582,
+                583,
+                584,
+                585,
+                586,
+                587,
+                588,
+                589,
+                590,
+                591,
+                592,
+                593,
+                594,
+                595,
+                596,
+                597,
+                598,
+                599,
+                600,
+                601,
+                602,
+                603,
+                604,
+                605,
+                606,
+                607,
+                608,
+                609,
+                610,
+                611,
+                612,
+                613
+            ]
+        }
+    ],
+    "file_43": [
+        {
+            "questions": [
+                "What did we discuss last Sunday?",
+                "Tell me the sorts of things did we talk about last Sunday.",
+                "Last Sunday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                644,
+                645,
+                646,
+                647,
+                648,
+                649,
+                650,
+                651,
+                652,
+                653,
+                654,
+                655,
+                656,
+                657,
+                658,
+                659,
+                660,
+                661,
+                662,
+                663,
+                664
+            ]
+        }
+    ],
+    "file_44": [
+        {
+            "questions": [
+                "What did we discuss last Saturday?",
+                "Tell me the sorts of things did we talk about last Saturday.",
+                "Last Saturday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                639,
+                640,
+                641,
+                642,
+                643,
+                644,
+                645,
+                646,
+                647,
+                648,
+                649,
+                650,
+                651,
+                652,
+                653,
+                654,
+                655,
+                656
+            ]
+        }
+    ],
+    "file_45": [
+        {
+            "questions": [
+                "What did we discuss last Wednesday?",
+                "Tell me the sorts of things did we talk about last Wednesday.",
+                "Last Wednesday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                657,
+                658,
+                659,
+                660,
+                661,
+                662,
+                663,
+                664,
+                665,
+                666,
+                667,
+                668,
+                669,
+                670,
+                671,
+                672,
+                673,
+                674
+            ]
+        }
+    ],
+    "file_46": [
+        {
+            "questions": [
+                "What did we discuss last Tuesday?",
+                "Tell me the sorts of things did we talk about last Tuesday.",
+                "Last Tuesday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                611,
+                612,
+                613,
+                614,
+                615,
+                616,
+                617,
+                618,
+                619,
+                620,
+                621,
+                622,
+                623,
+                624
+            ]
+        }
+    ],
+    "file_47": [
+        {
+            "questions": [
+                "What did we discuss last Saturday?",
+                "Tell me the sorts of things did we talk about last Saturday.",
+                "Last Saturday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                645,
+                646,
+                647,
+                648,
+                649,
+                650,
+                651,
+                652,
+                653,
+                654,
+                655,
+                656,
+                657,
+                658,
+                659,
+                660,
+                661,
+                662,
+                663
+            ]
+        }
+    ],
+    "file_48": [
+        {
+            "questions": [
+                "What did we discuss last Sunday?",
+                "Tell me the sorts of things did we talk about last Sunday.",
+                "Last Sunday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                629,
+                630,
+                631,
+                632,
+                633,
+                634,
+                635,
+                636,
+                637,
+                638,
+                639,
+                640,
+                641,
+                642,
+                643,
+                644,
+                645,
+                646,
+                647,
+                648,
+                649,
+                650,
+                651,
+                652,
+                653,
+                654,
+                655,
+                656,
+                657,
+                658,
+                659,
+                660,
+                661,
+                662
+            ]
+        }
+    ],
+    "file_49": [
+        {
+            "questions": [
+                "What did we discuss last Wednesday?",
+                "Tell me the sorts of things did we talk about last Wednesday.",
+                "Last Wednesday, what did we chat about?"
+            ],
+            "relevant_docs": [
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                472,
+                473,
+                474,
+                475,
+                476,
+                477,
+                478,
+                479,
+                480,
+                481,
+                482,
+                483,
+                484,
+                485,
+                486,
+                487,
+                488
+            ]
+        }
+    ]
+}
