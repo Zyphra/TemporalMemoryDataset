@@ -1,7 +1,7 @@
 {
     "speaker_a": "Tim",
     "speaker_b": "John",
-    "session_1_date_time": "7:48 PM on 21 May, 2023",
+    "session_1_date_time": "7:48 AM on 21 May, 2023",
     "session_1": [
         {
             "speaker": "John",
@@ -163,7 +163,7 @@
             "response_number": "19"
         }
     ],
-    "session_2_date_time": "5:08 PM on 15 June, 2023",
+    "session_2_date_time": "5:08 AM on 15 June, 2023",
     "session_2": [
         {
             "speaker": "Tim",
@@ -309,7 +309,7 @@
             "response_number": "38"
         }
     ],
-    "session_3_date_time": "4:21 PM on 16 July, 2023",
+    "session_3_date_time": "4:21 AM on 16 July, 2023",
     "session_3": [
         {
             "speaker": "John",
@@ -624,7 +624,7 @@
             "response_number": "73"
         }
     ],
-    "session_4_date_time": "4:17 PM on 2 August, 2023",
+    "session_4_date_time": "4:17 AM on 2 August, 2023",
     "session_4": [
         {
             "speaker": "Tim",
@@ -885,7 +885,7 @@
             "response_number": "108"
         }
     ],
-    "session_6_date_time": "1:08 PM on 11 August, 2023",
+    "session_6_date_time": "1:08 AM on 11 August, 2023",
     "session_6": [
         {
             "speaker": "John",
@@ -1065,7 +1065,7 @@
             "response_number": "131"
         }
     ],
-    "session_7_date_time": "7:54 PM on 17 August, 2023",
+    "session_7_date_time": "7:54 AM on 17 August, 2023",
     "session_7": [
         {
             "speaker": "John",
@@ -1186,7 +1186,7 @@
             "response_number": "147"
         }
     ],
-    "session_8_date_time": "4:29 PM on 21 August, 2023",
+    "session_8_date_time": "4:29 AM on 21 August, 2023",
     "session_8": [
         {
             "speaker": "John",
@@ -1495,7 +1495,7 @@
             "response_number": "184"
         }
     ],
-    "session_9_date_time": "6:59 PM on 26 August, 2023",
+    "session_9_date_time": "6:59 AM on 26 August, 2023",
     "session_9": [
         {
             "speaker": "Tim",
@@ -1623,7 +1623,7 @@
             "response_number": "199"
         }
     ],
-    "session_10_date_time": "2:52 PM on 31 August, 2023",
+    "session_10_date_time": "2:52 AM on 31 August, 2023",
     "session_10": [
         {
             "speaker": "Tim",
@@ -1750,7 +1750,7 @@
             "response_number": "216"
         }
     ],
-    "session_11_date_time": "8:17 PM on 21 September, 2023",
+    "session_11_date_time": "8:17 AM on 21 September, 2023",
     "session_11": [
         {
             "speaker": "John",
@@ -1985,7 +1985,7 @@
             "response_number": "246"
         }
     ],
-    "session_12_date_time": "3:00 PM on 2 October, 2023",
+    "session_12_date_time": "3:00 AM on 2 October, 2023",
     "session_12": [
         {
             "speaker": "Tim",
@@ -2221,7 +2221,7 @@
             "response_number": "275"
         }
     ],
-    "session_13_date_time": "1:50 PM on 13 October, 2023",
+    "session_13_date_time": "1:50 AM on 13 October, 2023",
     "session_13": [
         {
             "speaker": "Tim",
@@ -2400,7 +2400,7 @@
             "response_number": "297"
         }
     ],
-    "session_14_date_time": "1:50 PM on 17 October, 2023",
+    "session_14_date_time": "1:50 AM on 17 October, 2023",
     "session_14": [
         {
             "speaker": "John",
@@ -2580,7 +2580,7 @@
             "response_number": "320"
         }
     ],
-    "session_15_date_time": "5:51 PM on 21 October, 2023",
+    "session_15_date_time": "5:51 AM on 21 October, 2023",
     "session_15": [
         {
             "speaker": "Tim",
@@ -3031,7 +3031,7 @@
             "response_number": "375"
         }
     ],
-    "session_17_date_time": "3:36 PM on 11 November, 2023",
+    "session_17_date_time": "3:36 AM on 11 November, 2023",
     "session_17": [
         {
             "speaker": "John",
@@ -3178,7 +3178,7 @@
             "response_number": "394"
         }
     ],
-    "session_18_date_time": "3:59 PM on 16 November, 2023",
+    "session_18_date_time": "3:59 AM on 16 November, 2023",
     "session_18": [
         {
             "speaker": "Tim",
@@ -3824,7 +3824,7 @@
             "response_number": "475"
         }
     ],
-    "session_21_date_time": "5:34 PM on 6 December, 2023",
+    "session_21_date_time": "5:34 AM on 6 December, 2023",
     "session_21": [
         {
             "speaker": "Tim",
@@ -3982,7 +3982,7 @@
             "response_number": "494"
         }
     ],
-    "session_22_date_time": "7:42 PM on 8 December, 2023",
+    "session_22_date_time": "7:42 AM on 8 December, 2023",
     "session_22": [
         {
             "speaker": "Tim",
@@ -4144,7 +4144,7 @@
             "response_number": "512"
         }
     ],
-    "session_23_date_time": "8:28 PM on 11 December, 2023",
+    "session_23_date_time": "8:28 AM on 11 December, 2023",
     "session_23": [
         {
             "speaker": "John",
@@ -4275,7 +4275,7 @@
             "response_number": "528"
         }
     ],
-    "session_24_date_time": "3:37 PM on 16 December, 2023",
+    "session_24_date_time": "3:37 AM on 16 December, 2023",
     "session_24": [
         {
             "speaker": "Tim",
@@ -4579,7 +4579,7 @@
             "response_number": "565"
         }
     ],
-    "session_26_date_time": "3:35 PM on 26 December, 2023",
+    "session_26_date_time": "3:35 AM on 26 December, 2023",
     "session_26": [
         {
             "speaker": "John",
@@ -4898,7 +4898,7 @@
             "response_number": "603"
         }
     ],
-    "session_27_date_time": "5:26 PM on 2 January, 2024",
+    "session_27_date_time": "5:26 AM on 2 January, 2024",
     "session_27": [
         {
             "speaker": "Tim",
@@ -5245,7 +5245,7 @@
             "response_number": "643"
         }
     ],
-    "session_28_date_time": "5:24 PM on 7 January, 2024",
+    "session_28_date_time": "5:24 AM on 7 January, 2024",
     "session_28": [
         {
             "speaker": "Tim",
@@ -5416,7 +5416,7 @@
             "response_number": "664"
         }
     ],
-    "session_29_date_time": "1:41 PM on 12 January, 2024",
+    "session_29_date_time": "1:41 AM on 12 January, 2024",
     "session_29": [
         {
             "speaker": "Tim",
