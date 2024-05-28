@@ -1,7 +1,7 @@
 {
     "speaker_a": "Caroline",
     "speaker_b": "Melanie",
-    "session_1_date_time": "1:56 PM on 8 May, 2023",
+    "session_1_date_time": "1:56 AM on 8 May, 2023",
     "session_1": [
         {
             "speaker": "Caroline",
@@ -140,7 +140,7 @@
             "response_number": "17"
         }
     ],
-    "session_2_date_time": "1:14 PM on 25 May, 2023",
+    "session_2_date_time": "1:14 AM on 25 May, 2023",
     "session_2": [
         {
             "speaker": "Melanie",
@@ -268,7 +268,7 @@
             "response_number": "34"
         }
     ],
-    "session_3_date_time": "7:55 PM on 9 June, 2023",
+    "session_3_date_time": "7:55 AM on 9 June, 2023",
     "session_3": [
         {
             "speaker": "Caroline",
@@ -589,7 +589,7 @@
             "response_number": "75"
         }
     ],
-    "session_5_date_time": "1:36 PM on 3 July, 2023",
+    "session_5_date_time": "1:36 AM on 3 July, 2023",
     "session_5": [
         {
             "speaker": "Caroline",
@@ -714,7 +714,7 @@
             "response_number": "91"
         }
     ],
-    "session_6_date_time": "8:18 PM on 6 July, 2023",
+    "session_6_date_time": "8:18 AM on 6 July, 2023",
     "session_6": [
         {
             "speaker": "Caroline",
@@ -855,7 +855,7 @@
             "response_number": "107"
         }
     ],
-    "session_7_date_time": "4:33 PM on 12 July, 2023",
+    "session_7_date_time": "4:33 AM on 12 July, 2023",
     "session_7": [
         {
             "speaker": "Caroline",
@@ -1075,7 +1075,7 @@
             "response_number": "134"
         }
     ],
-    "session_8_date_time": "1:51 PM on 15 July, 2023",
+    "session_8_date_time": "1:51 AM on 15 July, 2023",
     "session_8": [
         {
             "speaker": "Caroline",
@@ -1414,7 +1414,7 @@
             "response_number": "173"
         }
     ],
-    "session_9_date_time": "2:31 PM on 17 July, 2023",
+    "session_9_date_time": "2:31 AM on 17 July, 2023",
     "session_9": [
         {
             "speaker": "Melanie",
@@ -1548,7 +1548,7 @@
             "response_number": "190"
         }
     ],
-    "session_10_date_time": "8:56 PM on 20 July, 2023",
+    "session_10_date_time": "8:56 AM on 20 July, 2023",
     "session_10": [
         {
             "speaker": "Caroline",
@@ -1748,7 +1748,7 @@
             "response_number": "214"
         }
     ],
-    "session_11_date_time": "2:24 PM on 14 August, 2023",
+    "session_11_date_time": "2:24 AM on 14 August, 2023",
     "session_11": [
         {
             "speaker": "Melanie",
@@ -1895,7 +1895,7 @@
             "response_number": "231"
         }
     ],
-    "session_12_date_time": "1:50 PM on 17 August, 2023",
+    "session_12_date_time": "1:50 AM on 17 August, 2023",
     "session_12": [
         {
             "speaker": "Caroline",
@@ -2055,7 +2055,7 @@
             "response_number": "252"
         }
     ],
-    "session_13_date_time": "3:31 PM on 23 August, 2023",
+    "session_13_date_time": "3:31 AM on 23 August, 2023",
     "session_13": [
         {
             "speaker": "Caroline",
@@ -2215,7 +2215,7 @@
             "response_number": "270"
         }
     ],
-    "session_14_date_time": "1:33 PM on 25 August, 2023",
+    "session_14_date_time": "1:33 AM on 25 August, 2023",
     "session_14": [
         {
             "speaker": "Caroline",
@@ -2522,7 +2522,7 @@
             "response_number": "305"
         }
     ],
-    "session_15_date_time": "3:19 PM on 28 August, 2023",
+    "session_15_date_time": "3:19 AM on 28 August, 2023",
     "session_15": [
         {
             "speaker": "Caroline",
@@ -2738,7 +2738,7 @@
             "response_number": "333"
         }
     ],
-    "session_16_date_time": "12:09 AM on 13 September, 2023",
+    "session_16_date_time": "12:09 PM on 13 September, 2023",
     "session_16": [
         {
             "speaker": "Caroline",
@@ -3118,7 +3118,7 @@
             "response_number": "379"
         }
     ],
-    "session_18_date_time": "6:55 PM on 20 October, 2023",
+    "session_18_date_time": "6:55 AM on 20 October, 2023",
     "session_18": [
         {
             "speaker": "Melanie",
