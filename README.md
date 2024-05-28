@@ -1,2 +1,2 @@
 # Temporal Memory Dataset
-This is the dataset used in the paper "Toward Context and Time Aware Agents with Long-term Memory"
+This is the dataset used in the paper "Toward Conversational Agents with Context and Time Sensitive Long-term Memory"
