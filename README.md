@@ -1,5 +1,5 @@
 # Temporal Memory Dataset
-This is the dataset used in the paper "Toward Conversational Agents with Context and Time Sensitive Long-term Memory". The dataset is separated into 'conversational_data' and 'test_data'. 
+This is the dataset used in the paper "Toward Conversational Agents with Context and Time Sensitive Long-term Memory" (Alonso et al., 2024).
 
 ## Conversational Data
 The conversational data consists of 12 conversation logs between two agents. These logs were taken from the LoCoMo dataset (Maharana et al., 2024) and modified slightly to extend portions of the conversations which are queried about further into the past, both in terms of time and number of tokens. There are 12 conversation logs. Each log is stored in a separate json file. Each file contains a dictionary that stores conversation sessions, each consisting of a list of responses, and each responses associated meta-data (e.g., time, date, speaker, response number). To retrieve a conversation log, e.g., log number 46, into a python script, simply clone the repo and run
