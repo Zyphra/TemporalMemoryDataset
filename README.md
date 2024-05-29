@@ -12,7 +12,7 @@ with open('ConversationalData/46.json', 'r') as openfile:
 ```
 
 ## Test Data
-The test data consists of three directories, each containing test questions and answers for a different type of test: time based query test, time+content based query test, and ambiguous time-based query test. The time and ambiguous time tests are further split into sub-types (see article for details). Questions and answers for each test (sub-)type is stored in a json file. Each json file contains a dictionary with a key for each file number (file_n), which retrieves a list of dictionaries, where each dictionaries stores versions of a question and a list of the response numbers that the question is referring to. 
+The test data consists of three directories, each containing test questions and answers for a different type of test: time based query test, time+content based query test, and ambiguous time-based query test. The time and ambiguous time tests are further split into sub-types (see article for details). Questions and answers for each test (sub-)type is stored in a json file. Each json file contains a dictionary with a key for each file number ('file_n'), which retrieves a list of dictionaries, where each dictionary stores versions of a question and a list of the response numbers that the question is referring to. 
 
 To retrieve the test questions for the, e.g., 'date', time-based test into a python script clone the repository then from the base directory run
 ```python
