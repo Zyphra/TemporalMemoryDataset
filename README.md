@@ -45,4 +45,6 @@ with open('TestData/content_time_qs/content_time_qs.json', 'r') as openfile:
 
 ## References
 
+Alonso, N., Figliolia, T., Ndirango, A., Millidge, B. (2024). Toward Conversational Agents with Time and Context Sensitive Long-term Memory. arXiv preprint arXiv:2406.00057
+
 Maharana, A., Lee, D. H., Tulyakov, S., Bansal, M., Barbieri, F., & Fang, Y. (2024). Evaluating Very Long-Term Conversational Memory of LLM Agents. arXiv preprint arXiv:2402.17753.
